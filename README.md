@@ -8,10 +8,10 @@
 
 ## 👨‍🎓 Dados do Estudante
 
-- **Nome**: [Seu Nome Aqui]
-- **Curso**: Engenharia de Software / Ciência da Computação
+- **Nome**: João da Silva
+- **Curso**: Engenharia de Software
 - **Disciplina**: Estruturas de Dados
-- **Professor**: [Nome do Professor]
+- **Professor**: Prof. Maria Oliveira
 - **Período**: 2025.1
 
 ## 🎬 Aulas Ao Vivo - Cronograma
